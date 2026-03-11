@@ -40,11 +40,9 @@ For a given data vector $x_k$, the dot product is **maximum** when $x_k$ is para
 
 ![Dot Product Illustration](dot_product.png)
 
-$$\vec{A} \cdot \hat{B} = |A||B|\cos(\theta)$$
+$$\vec{x} \cdot \hat{u} = |x||u|\cos(a)$$
 
-If the magnitude of $B$ is 1, then:
 
-$$C = \vec{A} \cdot \hat{B} = |A|\cos(\theta)$$
 
 
 
